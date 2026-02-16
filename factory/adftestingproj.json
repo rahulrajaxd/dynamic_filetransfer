@@ -1,0 +1,9 @@
+{
+	"name": "adftestingproj",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce4a7c3d-6342-4aa1-b964-849adcca3069",
+		"tenantId": "34785b19-1cc9-44dc-8a53-1cb724e62f2f"
+	}
+}
